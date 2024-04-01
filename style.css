@@ -1,0 +1,23 @@
+.body{
+    margin-right:5%;
+    background-color:black;
+    padding: 20px;
+}
+h1{
+    margin-left:20%;
+    margin-top: 20%;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #16687A;
+}
+body{
+    background-color:black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.form-label{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:#16687A;
+    font-size:20px;
+}
+
